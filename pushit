@@ -1,0 +1,4 @@
+#!/bin/bash
+/usr/bin/firefox https://www.youtube.com/watch?v=vCadcBR95oU &
+git push origin
+
